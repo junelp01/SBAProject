@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="Edi.View.DocumentView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:rg="clr-namespace:unvell.ReoGrid;assembly=unvell.ReoGrid"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             FocusManager.FocusedElement="{Binding ElementName=DemoTextBox}"
+             >
+  <Grid>
+        <!--<TextBlock Text="Name"></TextBlock>
+        <TextBox Name="nametxt" Text="Juan Dela Cruz"/>
+        <TextBox Name="DemoTextBox" Text="{Binding TextContent, UpdateSourceTrigger=PropertyChanged}"/>-->
+
+        <Grid.RowDefinitions>
+            <!--<RowDefinition Height="auto"/>-->
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+      
+        <Border x:Name="border" Background="LightBlue" BorderBrush="Black" Padding="8" Grid.Row="1">
+
+            <rg:ReoGridControl x:Name="grid" >
+            </rg:ReoGridControl>
+        </Border>
+
+      
+
+    </Grid>
+</UserControl>
