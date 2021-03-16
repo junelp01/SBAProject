@@ -84,3 +84,46 @@ D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\Avalon
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\AvalonDock\obj\Debug\ro\AvalonDock.resources.dll
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\AvalonDock\obj\Debug\AvalonDock.dll
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\AvalonDock\obj\Debug\AvalonDock.pdb
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\AvalonDock.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\AvalonDock.pdb
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\hu\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\it\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\fr\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\es\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\pt-BR\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\ru\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\de\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\sv\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\zh-Hans\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\bin\Debug\ro\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.csprojAssemblyReference.cache
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock_MarkupCompile.cache
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock_MarkupCompile.lref
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\Themes\generic.baml
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.g.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.hu.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.it.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.fr.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.es.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.pt-BR.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.ru.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.de.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.sv.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.zh-Hans.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.Properties.Resources.ro.resources
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.csproj.GenerateResource.cache
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.csproj.CoreCompileInputs.cache
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\hu\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\it\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\fr\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\es\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\pt-BR\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\ru\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\de\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\sv\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\zh-Hans\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\ro\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.dll
+D:\NRI\3\sbaproject\AvalonDock\obj\Debug\AvalonDock.pdb

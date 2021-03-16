@@ -32,3 +32,20 @@ D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\Simple
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\SimpleControls\obj\Debug\SimpleControls.csproj.CoreCompileInputs.cache
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\SimpleControls\obj\Debug\SimpleControls.dll
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\SimpleControls\obj\Debug\SimpleControls.pdb
+D:\NRI\3\sbaproject\SimpleControls\bin\Debug\SimpleControls.dll
+D:\NRI\3\sbaproject\SimpleControls\bin\Debug\SimpleControls.pdb
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\SimpleControls.csprojAssemblyReference.cache
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\ComboBox\ComboBoxWithLabel.g.cs
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\ComboBox\ComboBoxWithLabeledTextInput.g.cs
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\ComboBox\ComboBoxWaterMarkTextInput.g.cs
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\SimpleControls_MarkupCompile.cache
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\SimpleControls_MarkupCompile.lref
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\ComboBox\ComboBoxWithLabel.baml
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\ComboBox\ComboBoxWithLabeledTextInput.baml
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\ComboBox\ComboBoxWaterMarkTextInput.baml
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\Themes\Generic.baml
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\SimpleControls.g.resources
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\SimpleControls.csproj.CoreCompileInputs.cache
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\SimpleControls.dll
+D:\NRI\3\sbaproject\SimpleControls\obj\Debug\SimpleControls.pdb

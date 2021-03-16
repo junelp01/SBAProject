@@ -84,3 +84,46 @@ D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\Edi\ob
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\Edi\obj\Debug\Edi.csproj.CopyComplete
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\Edi\obj\Debug\Edi.exe
 D:\WPF PROJECTS\AVALON TUTORIALS\tutorial 2\backup 03-16-21\Edi_StartPage\Edi\obj\Debug\Edi.pdb
+D:\NRI\3\sbaproject\Edi\bin\Debug\Edi.exe.config
+D:\NRI\3\sbaproject\Edi\bin\Debug\Edi.exe
+D:\NRI\3\sbaproject\Edi\bin\Debug\Edi.pdb
+D:\NRI\3\sbaproject\Edi\bin\Debug\AvalonDock.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\FontAwesome.WPF.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\SimpleControls.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\unvell.ReoGrid.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\AvalonDock.pdb
+D:\NRI\3\sbaproject\Edi\bin\Debug\SimpleControls.pdb
+D:\NRI\3\sbaproject\Edi\bin\Debug\FontAwesome.WPF.xml
+D:\NRI\3\sbaproject\Edi\bin\Debug\unvell.ReoGrid.xml
+D:\NRI\3\sbaproject\Edi\bin\Debug\de\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\es\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\fr\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\hu\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\it\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\pt-BR\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\ro\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\ru\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\sv\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\bin\Debug\zh-Hans\AvalonDock.resources.dll
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi.csprojAssemblyReference.cache
+D:\NRI\3\sbaproject\Edi\obj\Debug\Theme.baml
+D:\NRI\3\sbaproject\Edi\obj\Debug\View\DocumentView.baml
+D:\NRI\3\sbaproject\Edi\obj\Debug\App.baml
+D:\NRI\3\sbaproject\Edi\obj\Debug\View\DocumentView.g.cs
+D:\NRI\3\sbaproject\Edi\obj\Debug\View\MainWindow.g.cs
+D:\NRI\3\sbaproject\Edi\obj\Debug\View\RecentFilesView.g.cs
+D:\NRI\3\sbaproject\Edi\obj\Debug\View\StartPage.g.cs
+D:\NRI\3\sbaproject\Edi\obj\Debug\App.g.cs
+D:\NRI\3\sbaproject\Edi\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi_MarkupCompile.cache
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi_MarkupCompile.lref
+D:\NRI\3\sbaproject\Edi\obj\Debug\View\MainWindow.baml
+D:\NRI\3\sbaproject\Edi\obj\Debug\View\RecentFilesView.baml
+D:\NRI\3\sbaproject\Edi\obj\Debug\View\StartPage.baml
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi.g.resources
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi.Properties.Resources.resources
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi.csproj.GenerateResource.cache
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi.csproj.CoreCompileInputs.cache
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi.csproj.CopyComplete
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi.exe
+D:\NRI\3\sbaproject\Edi\obj\Debug\Edi.pdb
